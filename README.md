@@ -1,3 +1,5 @@
+(👷 还在测试是否能用 Github 管理流程，暂时未上线。下周我会处理好这部分内容。 - wachi 09/21/2025)
+
 ## LXDAO S14 Content Bug Hunt
 
 Welcome, Hunters! This is the official repository for the **LXDAO Content Bug Hunt** campaign.
